@@ -2,28 +2,7 @@
 import { Lock, Zap, Shield } from "lucide-react"
 
 export default function Features2() {
-//   const features = [
-//     {
-//       title: "Gold Investments",
-//       description:
-//         "Wholesale Gold Investments Backed By Accredited Dubai Gold Jewellers Plus Investments In Retail Jewellery. Revenue Generated From This Venture Is Shared Among GOLDX Holders.",
-//       visual: "sphere",
-//     },
-//     {
-//       title: "GOLDX To Physical Gold Conversion",
-//       description:
-//         "GOLDX Holders Can Convert Their GOLDX Token INSTANTLY To Equal Value Of Physical Gold In Any Of The 100+ GOLDX Partner Jewellery Stores Around The World.",
-//       highlight: "GOLDX",
-//       visual: "gear",
-//     },
-//     {
-//       title: "Future Trading Platform",
-//       description:
-//         "Worlds First Gold Backed Future Trading Platform. Users Can Trade BTC, ETH, Solana Plus Numerous Tokens With Gold Backed Token GOLDX. Revenue From The Fees Is Shared Among GOLDX Holders.",
-//       highlight: "GOLDX",
-//       visual: "cube",
-//     },
-//   ]
+
 
     const features = [
     {

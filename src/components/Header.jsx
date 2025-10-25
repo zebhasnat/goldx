@@ -23,9 +23,7 @@ export default function Header() {
           Get started
           <span>→</span>
         </button>
-          <button className="md:hidden p-2 hover:bg-white/10 rounded-lg transition" onClick={() => setIsOpen(!isOpen)}>
-            <Menu size={20} />
-          </button>
+         
         </div>
       </div>
 

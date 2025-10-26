@@ -77,7 +77,8 @@ export default function Hero() {
         }
 
         .gradient-glow {
-          animation: pulse 4s ease-in-out infinite;
+          animation: pulse 3s ease-in-out infinite;
+          
         }
 
         .ellipse-ripple {

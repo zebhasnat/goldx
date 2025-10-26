@@ -11,9 +11,8 @@ export default function Hero() {
       {/* Content */}
       <div className="relative z-10 text-center max-w-5xl mb-20">
         <h1 className="text-6xl md:text-7xl text-[#FFBF00] font-bold mb-2 leading-tight">
-          GOLDX Wallet
+          GOLDX Walle<span className="text-[calc(1em+8px)]">t</span>
         </h1>
-
         <p className="text-xl text-[#FFBF00] md:text-2xl text-gray-300 mb-12 leading-relaxed">
           Your secure crypto wallet to explore blockchain
         </p>
